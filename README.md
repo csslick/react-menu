@@ -1,5 +1,6 @@
 # react menu 
-- demo:
+- demo: https://react-menu-csslick.netlify.app/
+
 ## 주요 기능
 - 상품 목록 표시
 - 메뉴 버튼으로 카테고리별 표시
